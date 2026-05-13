@@ -1,8 +1,7 @@
-torch 
-torchvision 
-torchaudio
-opencv-python
-numpy
-plyer
-yolov5
-#-e .
+ultralytics>=8.0.0
+opencv-python-headless>=4.8.0
+mss>=9.0.1
+plyer>=2.1.0
+pyyaml>=6.0
+prometheus-client>=0.20.0
+numpy>=1.24.0
